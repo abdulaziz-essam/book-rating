@@ -1,0 +1,19 @@
+.background{
+    width:  100%; /*or 70%, or what you want*/
+    height: 700px; /*or 70%, or what you want*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.book-background{
+    background-color: wheat;
+    width: 700px;
+    height: 200px;
+    margin-left: 40%;
+}
+.books{
+    width:100px;
+    height: 150px;
+    margin-top: 4%;
+}

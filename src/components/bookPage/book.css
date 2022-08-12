@@ -1,0 +1,15 @@
+.card{
+    margin-left: 40%;
+    margin-top: 6%;
+}
+.user-op{
+    margin-left: 40%;
+    margin-top: 20%;
+}
+.opinion{
+    border-radius: 4%;
+padding: 10%;
+background-color: wheat;
+width: 80%;
+height: 10%;
+}
